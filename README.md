@@ -10,7 +10,7 @@
 * * * 
 * Enjoy side projects   
   - 디자이너 예약 앱 [YeDi](https://github.com/songseongwook/final-yedi) - This is an app to reserve the designer you want.   
-  - 제품 사용기한 관리 앱 [바꾸](https://github.com/songseongwook/baggu) - This is an app that manages the usage period of products.   
+ 
 
 
 
