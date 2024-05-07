@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=31363F&height=150&section=header&text="Seongwook%20Song"&fontSize=100" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=31363F&height=150&section=header&text="Seongwook"&fontSize=100" />
 
 
 
