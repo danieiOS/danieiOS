@@ -2,7 +2,7 @@
 
 ###  Hello Everyone ! 
 
-#### <span style="font-size:150%">Information</span>  
+#### <span style="font-size:250%">Information</span>  
 - E-mail : danielosong98@gamil.com
 - Blog : https://iosong.tistory.com/
 - Likelion's TECHIT (APP-iOS2) 2nd
