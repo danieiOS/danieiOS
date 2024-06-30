@@ -12,11 +12,11 @@
 
 #### Connect With Me
 <a href="https://iosong.tistory.com/">
-  <img src="https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/Tistory-f4A261.svg?style=for-the-badge&logo=tistory&logoColor=F5F7F8"/>
 </a>
 
 <a href="https://discord.gg/6gTJSSRn7s">
-  <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
 * * *
