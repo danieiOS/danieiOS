@@ -14,10 +14,8 @@
 <a href="https://iosong.tistory.com/">
   <img src="https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg" width="30" height="30"/>
 </a>
-|
-<a href="https://discord.gg/6gTJSSRn7s">
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="30" height="30"/>
-</a>
+
+
 
 * * *
 
