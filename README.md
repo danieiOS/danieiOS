@@ -23,7 +23,7 @@
 <h3 align="center">Problem Solving</h3> 
 
  
-<h4>
+<h4 align="center">
  <a href="https://solved.ac/songseongwook175">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songseongwook175"/>
  </a>
