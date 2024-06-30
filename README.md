@@ -12,7 +12,7 @@
 
 #### Connect With Me
 <a href="https://iosong.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-f4A261.svg?style=for-the-badge&logo=tistory&logoColor=F5F7F8"/>
+  <img src="https://img.shields.io/badge/Tistory-eb531f.svg?style=for-the-badge&logo=tistory&logoColor=F5F7F8"/>
 </a>
 
 <a href="https://discord.gg/6gTJSSRn7s">
