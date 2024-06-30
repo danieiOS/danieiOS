@@ -14,7 +14,8 @@
 <a href="https://iosong.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-eb531f.svg?style=for-the-badge&logo=tistory&logoColor=F5F7F8"/>
 </a>   
-   
+
+      
 <a href="https://discord.gg/6gTJSSRn7s">
   <img src="https://img.shields.io/badge/Discord-071952.svg?style=for-the-badge&logo=discord&logoColor=F5F7F8" />
 </a>
