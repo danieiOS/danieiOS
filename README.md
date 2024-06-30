@@ -20,5 +20,10 @@
  <img src="" width="30" height="30"/>
 </a>
 
-[![Solved.ac 
+<h3 align="center">Problem Solving</h3> 
+
+<h3 align="center">
+ [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songseongwook175)](https://solved.ac/songseongwook175)
+</h3>
+
