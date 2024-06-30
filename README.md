@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://discord.gg/6gTJSSRn7s">
-  <img src="https://w7.pngwing.com/pngs/842/992/png-transparent-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-online-chat-thumbnail.png" width="30" height="30"/>
+  <img src="https://blog.kakaocdn.net/dn/UfLsA/btryLAAzYlS/HbRBaCnKs69pBByFgAGgfk/img.png" width="30" height="30"/>
 </a>
 
 * * *
