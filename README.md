@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A261&height=150&section=header&text=&fontSize=45&fontColor=EEEEEE" />
-## Hi 🙌 I'm Seongwook   
+<p align="center">
+  <span style="font-size: 40px;">Hi 🙌 I'm Seongwook</span>
+</p>
+
 
 #### iOS Developer from Korea
 
