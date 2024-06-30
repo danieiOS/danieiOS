@@ -21,4 +21,4 @@
 </a>
 
 [![Solved.ac 
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=danieiOS)](https://solved.ac/danieiOS)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songseongwook175)](https://solved.ac/songseongwook175)
