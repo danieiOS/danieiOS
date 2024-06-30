@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A261&height=150&section=header&text=&fontSize=45&fontColor=EEEEEE" />
-<span class="center"># Hi 🙌 I'm Seongwook</span> 
-
+<h1 align="center">이것은 가운데 정렬된 제목입니다</h1> 
 # Hi 🙌 I'm Seongwook
 
 #### iOS Developer from Korea
