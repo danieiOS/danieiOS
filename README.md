@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=40&pause=1000&color=F7F7F7&background=98CDFF&center=true&vCenter=true&random=false&width=435&height=60&lines=Thank+you+for+visiting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=40&pause=1000&color=F7F7F7&background=98CDFF&center=true&vCenter=true&random=false&width=1000&height=60&lines=Thank+you+for+visiting)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 🙌 I'm Seongwook</h1> 
 
