@@ -1,6 +1,14 @@
 <h1 align="center">Hi 🙌 I'm Seongwook</h1> 
 
-<h3 align="center">iOS Developer from Korea</h3> 
+<h3 align="center">
+ 
+
+
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=iOS+Developer+from+Korea"/>
+</a>
+
+</h3> 
  
 ![](https://komarev.com/ghpvc/?username=danieiOS&abbreviated=true)
 
