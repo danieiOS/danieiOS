@@ -17,6 +17,7 @@
 
 
   
+<img src="https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg" width="50" height="50"/>
 
 
 
