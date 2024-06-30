@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A261&height=100&section=header&text=&fontSize=45&fontColor=EEEEEE"/>
 
-<h2 align="center">Hi 🙌 I'm Seongwook</h2> 
+<h1 align="center">Hi 🙌 I'm Seongwook</h1> 
 
-<h4 align="center">iOS Developer from Korea</h3> 
+<h3 align="center">iOS Developer from Korea</h3> 
  
 ![](https://komarev.com/ghpvc/?username=danieiOS&abbreviated=true)
 
