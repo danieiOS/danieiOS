@@ -16,7 +16,7 @@
 </a>
 &nbsp;
 <a href="https://discord.gg/6gTJSSRn7s">
-  <img src="https://i.namu.wiki/i/J-pfrNflfTU9mZehO_2UZomx4EpbreEdCV3F76pxKikj3fdS2or7uo79PRpj9TcunIx-YtKoHICNIGwIPShDbvZ_FyNwefEDP6w8rwEkfhRQELEtTQn4cg7y2EuLG5bf0MYmcvmxURUs4aKr2S8tMA.webp" width="30" height="30"/>
+  <img src="https://blog.kakaocdn.net/dn/UfLsA/btryLAAzYlS/HbRBaCnKs69pBByFgAGgfk/img.png" width="30" height="30"/>
 </a>
 
 * * *
