@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A261&height=150&section=header&text=&fontSize=45&fontColor=EEEEEE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A261&height=100&section=header&text=&fontSize=45&fontColor=EEEEEE"/>
 
 <h2 align="center">Hi 🙌 I'm Seongwook</h2> 
 
