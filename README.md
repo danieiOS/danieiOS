@@ -15,12 +15,15 @@
   <img src="https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg" width="30" height="30"/>
 </a>
 
-#### Project
-<a href="">
- <img src="" width="30" height="30"/>
-</a>
-
 * * *
+
+<h3 align="center">Project</h3>
+
+<h5 align="center">
+ <a href="">
+  <img src="" width="30" height="30"/>
+ </a>
+</h5>
 
 <h3 align="center">Problem Solving</h3> 
 
