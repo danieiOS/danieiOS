@@ -24,4 +24,8 @@
 
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songseongwook175)](https://solved.ac/songseongwook175)
 
+ <a href="https://solved.ac/songseongwook175">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songseongwook175"/>
+</a>
+
 
