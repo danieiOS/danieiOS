@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Hello+Everyone&fontSize=50)
-
 <h1 align="center">Hi 🙌 I'm Seongwook</h1> 
 
 <h3 align="center">iOS Developer from Korea</h3> 
