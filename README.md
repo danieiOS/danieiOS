@@ -12,7 +12,7 @@
 
 #### Connect With Me
 <a href="https://iosong.tistory.com/">
-  <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9931DF3D5B95428108" width="30" height="30"/>
+  <img src="https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg" width="30" height="30"/>
 </a>
 &nbsp;
 <a href="https://discord.gg/6gTJSSRn7s">
