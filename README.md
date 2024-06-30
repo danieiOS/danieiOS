@@ -19,6 +19,9 @@
   <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="30" height="30"/>
 </a>
 
+<a href="https://discord.gg/6gTJSSRn7s">
+  <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="30" height="30"/>
+</a>
 * * *
 
 <h3 align="center">Project</h3>
