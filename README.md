@@ -27,8 +27,11 @@
 
 <h5 align="center">
  <a href="https://github.com/danieiOS/final-yedi">
-  <img src="https://github.com/user-attachments/assets/0f2edfae-327d-43b5-9964-ee26c8a4b398" width="30" height="30"/>
+  <img src="https://github.com/user-attachments/assets/0f2edfae-327d-43b5-9964-ee26c8a4b398" width="50" height="50"/>
  </a>
+</h5> 
+<h5 align="center">
+  YeDi
 </h5>
 
 <h3 align="center">Problem Solving</h3> 
