@@ -36,9 +36,7 @@
 
 <h5 align="center">
   YeDi
-  <h5 align="center">
   |
-  </h5>
   ForBlind
 </h5>
 
