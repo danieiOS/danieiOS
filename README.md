@@ -27,11 +27,16 @@
 
 <h5 align="center">
  <a href="https://github.com/danieiOS/final-yedi">
-  <img src="https://github.com/user-attachments/assets/0f2edfae-327d-43b5-9964-ee26c8a4b398" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/0f2edfae-327d-43b5-9964-ee26c8a4b398" width="50" height="50"/></a>
+ 
+  <a href="https://github.com/ksj0109188/LuminaView">
+  <img src="" width="50" height="50"/>
  </a>
 </h5> 
+
 <h5 align="center">
   YeDi
+  ForBlind
 </h5>
 
 <h3 align="center">Problem Solving</h3> 
